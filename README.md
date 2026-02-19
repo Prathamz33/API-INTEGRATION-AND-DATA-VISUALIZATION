@@ -122,3 +122,5 @@ Error handling in API-based applications
 This project successfully demonstrates real-time API integration combined with effective data visualization techniques. It highlights how external data sources can be transformed into meaningful visual insights using Python-based tools.
 
 The implementation showcases practical knowledge of API communication, data analysis, and dashboard development, making it a strong foundation for future data-driven applications.
+
+OUTPUT :- [Weather Dashboard.pdf](https://github.com/user-attachments/files/25425408/Weather.Dashboard.pdf)
